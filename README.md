@@ -282,5 +282,5 @@
 
 ## 简易代码
 
-[程序](knowledge-base-qa-code.md)
+[程序](simple-kb-qa-code.md)
 
